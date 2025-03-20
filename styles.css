@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: #4CAF50;
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+}
+section {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.project {
+    background-color: #e3f2fd;
+    padding: 10px;
+    border-left: 5px solid #4CAF50;
+    margin-top: 10px;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+}
